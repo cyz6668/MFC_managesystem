@@ -1,2 +1,3 @@
 # codestuff
-online judge records
+managesystem 
+the basic usage of MFC 
